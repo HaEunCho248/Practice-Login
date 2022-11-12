@@ -1,10 +1,10 @@
 
 
 
-function App() {
+const App: React.FC = () => {
   return (
    <>
-   <h1>APP</h1>
+   <div className='App'></div>
    </>
   );
 }
